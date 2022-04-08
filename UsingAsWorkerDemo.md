@@ -1,6 +1,6 @@
 # Using cstimer.js as scramble provider webworker
 
-[cstimer.js](https://cstimer.net/js/cstimer.js) can also work as a scramble-provider webworker. Here is a simple demo.
+[cstimer.js](https://cstimer.org/js/cstimer.js) can also work as a scramble-provider webworker. Here is a simple demo.
 I recommend you to deploy the js file on your own server instead of directly linking from cstimer for avoiding affecting the service of cstimer. 
 
 ```javascript

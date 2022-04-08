@@ -5,15 +5,15 @@ Professional Speedcubing/Training Timer
 
 # Versions and Update Policy
 
-Main version: https://cstimer.net/
+Main version: https://cstimer.org/
 
-Latest version: https://cstimer.net/new/
+Latest version: https://cstimer.org/new/
 
-Source version: https://cstimer.net/src/
+Source version: https://cstimer.org/src/
 
-[Latest version](https://cstimer.net/new/) and [Source version](https://cstimer.net/src/) will always be the same as the [master](https://github.com/cs0x7f/csTimer/tree/master) branch of this project. While [Main version](https://cstimer.net/) will always be the same as [released](https://github.com/cs0x7f/csTimer/tree/released) branch of this project.
+[Latest version](https://cstimer.org/new/) and [Source version](https://cstimer.org/src/) will always be the same as the [master](https://github.com/cs0x7f/csTimer/tree/master) branch of this project. While [Main version](https://cstimer.org/) will always be the same as [released](https://github.com/cs0x7f/csTimer/tree/released) branch of this project.
 
-New features will firstly be implemented in [Latest version](https://cstimer.net/new/). After testing for several days, [Main version](https://cstimer.net/) will be updated if appropriate, depends on user feedback for the new function or update.
+New features will firstly be implemented in [Latest version](https://cstimer.org/new/). After testing for several days, [Main version](https://cstimer.org/) will be updated if appropriate, depends on user feedback for the new function or update.
 
 It is preferred to use HTTPS protocol to visit csTimer. Although HTTP is available, some functions might not work correctly, e.g. stackmatTimer, WCA login, etc.
 
@@ -41,4 +41,4 @@ After https://github.com/cs0x7f/cstimer/commit/8280fdab9628c605c9abc1bc4a127e3e8
 
 # Third-party Deployment
 
-Some functions of csTimer might not work properly for domains except "cstimer.net", especially online-based export/import functions due to callback address verification. If you want to make csTimer work as a part of your own website, it is recommended to use <iframe>.
+Some functions of csTimer might not work properly for domains except "cstimer.org", especially online-based export/import functions due to callback address verification. If you want to make csTimer work as a part of your own website, it is recommended to use <iframe>.
